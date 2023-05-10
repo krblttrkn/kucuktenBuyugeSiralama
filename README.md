@@ -47,4 +47,4 @@ public class kucuktenBuyugeSiralama {
 ```
 ***
 ## PATİKA LİNKİM :
-<a href='https://app.patika.dev/krblttrkn'>PaTiKa linkim</a>
+<a href="https://academy.patika.dev/profile">PaTiKa linkim</a>
